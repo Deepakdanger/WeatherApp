@@ -1,6 +1,6 @@
 # Weather_App
 
-This is a weather application made using javascript. A user can search for any city and my application will fetched from Open_weather_api and give you the current location, temperature, and humidity. The user can also change the temperature from fahrenheit to celcius and vice-versa.
+This is a weather application made using javascript. A user can search for any city and my application will be fetched from Open_weather_api and give you the current location, temperature, and humidity. The user can also change the temperature from Fahrenheit to celsius and vice-versa.
 
 <div align="center">
 
