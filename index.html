@@ -4,21 +4,24 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Weathet App</title>
+    <link rel="stylesheet" type="text/css" href="./assets/css/main.css"> 
+    <title>Weather App</title>
 </head>
 <body>
-
+    <div id="containor">
+        
     <div class="task_form_body1" id="task_form_body" >
         <form id="city_form" city-form>
-            <div class="form-group">
-                <label for="inputCity">City</label>
+           
+                <label for="inputCity">Enter City Name:-</label>
                 <input type="text" class="form-control" id="inputCity" placeholder="Enter city...." city-form-input required>
-            </div>
+          
             
-            <button type="submit" class="btn btn-primary" id="btn-todo-submit">Submit</button>
+            <button type="submit" class="btn btn-primary submit1" id="btn-todo-submit">Submit</button>
         </form>
     </div>
     <div id="description">     </div>
+    </div>
     
     <script src="main.js"></script>
 </body>
