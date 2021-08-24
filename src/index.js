@@ -67,7 +67,7 @@ const display = async (city) => {
     } else if (infoWeather.weather[0].main === 'Clouds') {
       containor1.className = 'cloudy';
     } else if (infoWeather.weather[0].main === 'Mist') {
-      containor1.className = 'cloudy';
+      containor1.className = 'mist';
     }else if (infoWeather.weather[0].main === 'Clear') {
       containor1.className = 'clear';
     }else if (infoWeather.weather[0].main === 'Fog') {

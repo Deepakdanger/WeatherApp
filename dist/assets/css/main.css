@@ -66,8 +66,14 @@
   background-size: 100% 100%;
 }
 
-.clear {
+.fog {
   background-image: url(../img/ChiefSlushyGrunion.webp);
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
+
+.mist {
+  background-image: url(../img/normal.gif);
   background-repeat: no-repeat;
   background-size: 100% 100%;
 }
