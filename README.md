@@ -47,7 +47,7 @@ This is a weather application made using javascript. A user can search for any c
 
 ## Live Demo Link <a name = "ll"></a>
 
-[Live Demo]()
+[Live Demo](https://deepakdanger.github.io/WeatherApp/)
 
 
 ## Getting Started <a name = "gs"></a>
